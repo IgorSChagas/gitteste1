@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+%coment
+
 int main(){
   int ret;
   ret = soma(2, 3);
